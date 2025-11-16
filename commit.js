@@ -51,4 +51,4 @@ async function createCommitsForDate(date, count) {
 
 // === EXAMPLE USAGE ===
 // Create 5 commits on Jan 10, 2022
-createCommitsForDate("2022-01-10", 5);
+createCommitsForDate("2025-11-17", 3);
